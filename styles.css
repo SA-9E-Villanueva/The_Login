@@ -1,0 +1,71 @@
+body{
+	background-image: url(https://wallpapers.com/images/high/black-textured-hair-closeup-7af63479vbi9wldd.webp)
+}
+
+h1{
+	font-family: Didot;
+	font-size: 50px;
+	text-align: center;
+}
+
+h2{
+	font-family: Candara;
+	color: black;
+}
+
+h3 {
+	font-family: Candara;
+	color: white;
+}
+
+form{
+	font-family: Candara;
+	text-align: center;
+	color: red;
+}
+
+p{
+	font-family: Candara;
+	color: floralwhite;
+}
+
+.titlecontainer{
+	background-color: floralwhite;
+	border: 5px double;
+	border-color: darkkhaki;
+	padding: 10px;
+	border-radius: 25px;
+}
+
+.logincontainer{
+	background-color: floralwhite;
+	width: 35%;
+	margin: auto;
+	border:5px double;
+	border-color: darkkhaki;
+	padding: 10px;
+	border-radius:25px;
+	text-align: center;
+}
+
+#maintitle{
+	color: black;
+	text-align:center;
+}
+
+#loginmain{
+	font-size: 45px;
+}
+
+#subtitle{
+	text-align: center;
+}
+
+#sub2title{
+	text-align: center;
+}
+
+#piremind{
+	color: white;
+	text-align: right;
+}
